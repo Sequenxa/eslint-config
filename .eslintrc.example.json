@@ -1,0 +1,3 @@
+{
+  "extends": ["@sequenxa/eslint-config/react", "@sequenxa/eslint-config/tailwind"]
+}

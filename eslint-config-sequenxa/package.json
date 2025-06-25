@@ -1,0 +1,20 @@
+{
+  "name": "@sequenxa/eslint-config-sequenxa",
+  "version": "1.0.0",
+  "description": "Secure ESLint + Prettier config for building trust-grade TypeScript, React, and Tailwind apps. Enforces safe defaults for AI, identity, and sensitive data applications. Maintained by Sequenxa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "eslint-config-sequenxa"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "sequenxa"
+  ],
+  "author": "Sequenxa",
+  "license": "ISC"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "@sequenxa/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint configuration for Sequenxa projects with security, TypeScript, React, and Tailwind support",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": ["eslint", "config", "sequenxa", "secure", "typescript", "react", "tailwind"],
+  "peerDependencies": {
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0",
+    "eslint-plugin-react": "^7.0.0",
+    "eslint-plugin-security": "^1.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint-plugin-tailwindcss": "^3.0.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.35.0",
+    "@typescript-eslint/parser": "^8.35.0",
+    "eslint": "^9.29.0",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-security": "^3.0.1",
+    "eslint-plugin-tailwindcss": "^3.18.0",
+    "prettier": "^3.6.1"
+  }
+}
